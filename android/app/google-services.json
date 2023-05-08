@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307352930009",
+    "project_id": "chachukishop",
+    "storage_bucket": "chachukishop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307352930009:android:be634a0f528055cbf820c8",
+        "android_client_info": {
+          "package_name": "com.example.chachukishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307352930009-f464d623k5i28fgl48gjt2bm28dmn2rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOybIrMk3Q2EsEBqenhfZ5AHA-om5Nq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307352930009-f464d623k5i28fgl48gjt2bm28dmn2rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
